@@ -1,5 +1,12 @@
 ## Hi there 👋
-ESP || ENG = Okay!
+ESP - ENG = Okay!
+VideoGames Developer
+C# Enthusiast
+Other languages I can work on: Java, Python.
+----------------------------------------------------------
+Currently developing a rhythm-roguelike Game!
+----------------------------------------------------------
+
 
 
 <!--
