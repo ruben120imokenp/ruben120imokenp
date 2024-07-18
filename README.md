@@ -1,7 +1,10 @@
 ## Hi there 👋 ##
 ESP - ENG = Okay!
-VideoGames Developer
+----------------------------------------------------------
+VideoGame Developer
+----------------------------------------------------------
 C# Enthusiast
+----------------------------------------------------------
 Other languages I can work on: Java, Python.
 ----------------------------------------------------------
 Currently developing a roguelike game!
