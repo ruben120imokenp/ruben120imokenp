@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**ruben120imokenp/ruben120imokenp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img src="https://media1.tenor.com/m/LwqGCs1IB7EAAAAd/ame-chan-needy-streamer.gif" alt="Mi gif" width="50%">
+</div>
+<div align="center">
+  <h1>Rubén 120</h1>
+  <h3>Video Game Developer</h3>
+  <h1>Programming Languages</h1>
+  <h3>C# - C++ - Java - Python - PLSQL</h3>
+  <h1>Languages</h1>
+  <h3>Spanish - English - 日本語</h3>
+  <a href="https://steamcommunity.com/id/rub3n120/" target="_blank">Add me on Steam!</a>
+</div>
