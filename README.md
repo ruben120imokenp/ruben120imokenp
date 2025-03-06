@@ -7,6 +7,7 @@
   <h1>Programming Languages</h1>
   <h3>C# - C++ - Java - Python - PLSQL</h3>
   <h1>Languages</h1>
-  <h3>Spanish - English - 日本語</h3>
+  <h3>Spanish - English - 日本語勉強中</h3>
   <a href="https://steamcommunity.com/id/rub3n120/" target="_blank">Add me on Steam!</a>
+  
 </div>
